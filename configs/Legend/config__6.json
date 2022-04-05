@@ -1,0 +1,35 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "Red_Abastecimiento_4172": {
+      "selected": true
+    },
+    "Red_Abastecimiento_4277": {
+      "selected": true
+    },
+    "Red_Abastecimiento_5315": {
+      "selected": true
+    },
+    "Red_Abastecimiento_5613": {
+      "selected": true
+    },
+    "Red_Abastecimiento_9861": {
+      "selected": true
+    },
+    "Red_Abastecimiento_8707": {
+      "selected": true
+    },
+    "Red_Abastecimiento_651": {
+      "selected": true
+    },
+    "Red_Abastecimiento_502": {
+      "selected": true
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}
